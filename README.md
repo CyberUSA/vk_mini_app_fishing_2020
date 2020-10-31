@@ -1,0 +1,1 @@
+# vk_mini_app_fishing_2020
