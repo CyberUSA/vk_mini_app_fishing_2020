@@ -1,0 +1,54 @@
+img {
+    border: 2px solid #00b3ff;
+    border-radius: 25px;
+    height: 50px;
+    width: 50px;
+}
+.quit {
+    color: #00b3ff;
+    border: 1px solid #00b3ff;
+    border-radius: 30px;
+    height: 30px;
+    width: 100px;
+    margin-left: auto;
+    margin-top: -100px;
+}
+.quit-but {
+    color: #00b3ff;
+    background: black;
+    border: 2px solid #00b3ff;
+    border-radius: 30px;
+    height: 30px;
+    width: 100px;
+    left: 200px;
+}
+img {
+    border-radius: 24px;
+}
+body {
+    background: black;
+    color: #00b3ff;
+}
+b {
+    color: #00b3ff;
+}
+
+
+input {
+    color: #00b3ff;
+    background: black;
+    border: 2px solid #00b3ff;
+    border-radius: 30px;
+    outline: none;
+}
+
+button {
+    color: #00b3ff;
+    background: black;
+    border: 2px solid #00b3ff;
+    border-radius: 30px;
+    outline: none;
+}
+.functional {
+    margin-top: 200px;
+}
